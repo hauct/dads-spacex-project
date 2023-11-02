@@ -17,19 +17,19 @@ This repository contains the project work for the "Applied Data Science Capstone
 1. [Data Collection](https://github.com/hauct/dads-spacex-project/tree/main/week1)
     - Employed web scraping techniques to extract relevant data from Wikipedia.
 
-2. **Data Wrangling**
+2. [Data Wrangling](https://github.com/hauct/dads-spacex-project/tree/master/week2)
     - Filtered the raw data to obtain relevant records.
     - Handled missing values to maintain data integrity.
     - Applied One Hot Encoding to transform categorical variables, making the data ready for binary classification.
 
-3. **Exploratory Data Analysis (EDA)**
+3. [Exploratory Data Analysis (EDA)](https://github.com/hauct/dads-spacex-project/tree/master/week3)
     - Conducted a thorough exploration of the dataset using both visualizations and SQL.
 
-4. **Interactive Visual Analytics**
+4. [Interactive Visual Analytics](https://github.com/hauct/dads-spacex-project/tree/master/week4)
     - Utilized tools like Folium for geospatial visualization.
     - Employed Plotly Dash for creating interactive visual analytics dashboards.
 
-5. **Predictive Analysis**
+5. [Predictive Analysis](https://github.com/hauct/dads-spacex-project/tree/master/week5)
     - Built, tuned, and evaluated various classification models to determine the best predictor for whether the first stage of a rocket would be reused.
 
 ---
