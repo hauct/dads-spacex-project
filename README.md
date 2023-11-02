@@ -14,7 +14,7 @@ This repository contains the project work for the "Applied Data Science Capstone
 
 ## Methodology
 
-1. **Data Collection** [https://github.com/hauct/dads-spacex-project/tree/main/week1]
+1. **Data Collection**(https://github.com/hauct/dads-spacex-project/tree/main/week1)
     - Employed web scraping techniques to extract relevant data from Wikipedia.
 
 2. **Data Wrangling**
